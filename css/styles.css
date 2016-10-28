@@ -1633,9 +1633,9 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: rgba(255, 255, 255, 0.75);
+		color: rgba(255, 255, 255, 0.66);
     font-family: 'Roboto', sans-serif;
-		font-weight: 300;
+		font-weight: 400;
 		font-size: 16.5pt;
 		line-height: 1.75;
 	}
@@ -1705,8 +1705,9 @@
 		}
 
 	h1 {
-		font-size: 3em;
-		font-weight: 400;
+		font-size: 2.875em;
+		font-family: 'Roboto', sans-serif;
+		font-weight: 500;
 	}
 
 		h1.major {
@@ -3076,7 +3077,7 @@
 			}
 
 		.spotlights > section:nth-child(even) {
-			background-color: rgba(0, 0, 0, 0.15);
+			background-color: rgba(0, 0, 0, 0.1);
 		}
 
 		.spotlights > section:nth-child(odd) {
@@ -3752,7 +3753,7 @@
 			border: 0;
 			color: rgba(255, 255, 255, 0.5);
 			display: block;
-			font-size: 0.6em;
+			font-size: 0.625em;
 			font-weight: bold;
 			letter-spacing: 0.25em;
 			line-height: 1.75;
@@ -3883,7 +3884,7 @@
 
 	#home {
 		background-attachment: fixed;
-		background-image: url("../css/images/intro.svg");
+		background-image: url("../css/background-img/intro.svg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
