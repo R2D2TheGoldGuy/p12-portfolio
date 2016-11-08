@@ -1972,7 +1972,7 @@
 		button.special,
 		.button.special {
 			background-color: #ffffff;
-			color: #312450 !important;
+			color: #253149 !important;
 		}
 
 			input[type="submit"].special:after,
@@ -1983,7 +1983,8 @@
 				display: none;
 			}
 
-		input[type="submit"].disabled, input[type="submit"]:disabled,
+		input[type="submit"].disabled, 
+		input[type="submit"]:disabled,
 		input[type="reset"].disabled,
 		input[type="reset"]:disabled,
 		input[type="button"].disabled,
@@ -2366,7 +2367,7 @@
 		textarea:focus {
 			border-color: #ffffff;
 			box-shadow: 0 0 0 1px #ffffff;
-			transition: all 0.5s;
+			transition: all 0.6s;
 		}
 
 	.select-wrapper {
