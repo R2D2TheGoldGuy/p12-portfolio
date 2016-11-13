@@ -10,8 +10,7 @@ Tools and Technologies used:
   Images:
 
     1. custom made images
-    2. flaticons.com
-    3. shutterstock.com
+    2. Free stock photos
 
   Fonts:
 
